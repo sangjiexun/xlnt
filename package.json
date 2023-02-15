@@ -9,8 +9,8 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@release-it/bumper": "^1.1.0",
-    "release-it": "^13.1.1"
+    "@release-it/bumper": "^1.4.1",
+    "release-it": "^13.7.2"
   },
   "scripts": {
     "release": "release-it"
